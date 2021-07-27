@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{079200B1-0A4D-4411-9C58-0A8AF8622279}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Controls, Version=2.2.5.0, Culture=neutral, PublicKeyToken=a8ac264d1dc6b9d9, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Controls.2.2.5\lib\AForge.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging, Version=2.2.5.0, Culture=neutral, PublicKeyToken=ba8ddea9676ca48b, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Imaging.2.2.5\lib\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Math, Version=2.2.5.0, Culture=neutral, PublicKeyToken=abba2e25397ee8c9, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Math.2.2.5\lib\AForge.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="AipSdk, Version=3.6.14.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Baidu.AI.3.6.14\lib\net45\AipSdk.dll</HintPath>
+    </Reference>
+    <Reference Include="Azure.Core, Version=1.8.1.0, Culture=neutral, PublicKeyToken=92742159e12e44c8, processorArchitecture=MSIL">
+      <HintPath>..\packages\Azure.Core.1.8.1\lib\net461\Azure.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.1.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=4.0.4.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.4.6.0\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.3\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.6.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=4.0.4.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.4.6.0\lib\netstandard2.0\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.4.6.0\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.2\lib\netstandard2.0\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="manegar\AddBookCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manegar\AddBookCategory.Designer.cs">
+      <DependentUpon>AddBookCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manegar\AddBookList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manegar\AddBookList.Designer.cs">
+      <DependentUpon>AddBookList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manegar\Addwork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manegar\Addwork.Designer.cs">
+      <DependentUpon>Addwork.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manegar\ChangeBookCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manegar\ChangeBookCategory.Designer.cs">
+      <DependentUpon>ChangeBookCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manegar\ChangeBookList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manegar\ChangeBookList.Designer.cs">
+      <DependentUpon>ChangeBookList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manegar\SelectBookList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manegar\SelectBookList.Designer.cs">
+      <DependentUpon>SelectBookList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="work\Selectwork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work\Selectwork.Designer.cs">
+      <DependentUpon>Selectwork.cs</DependentUpon>
+    </Compile>
+    <Compile Include="work\BookBack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work\BookBack.Designer.cs">
+      <DependentUpon>BookBack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="人脸识别\FaceAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="人脸识别\FaceAdd.Designer.cs">
+      <DependentUpon>FaceAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="人脸识别\face\AccessToken.cs" />
+    <Compile Include="人脸识别\face\Face.cs" />
+    <Compile Include="人脸识别\face\FaceCommon.cs" />
+    <Compile Include="人脸识别\face\FaceInfo.cs" />
+    <Compile Include="人脸识别\face\FaceMsg.cs" />
+    <Compile Include="人脸识别\face\FaceOperate.cs" />
+    <Compile Include="人脸识别\face\ImgHelper.cs" />
+    <Compile Include="人脸识别\face\Tocken.cs" />
+    <Compile Include="类文件\BookCategoryHelper.cs" />
+    <Compile Include="类文件\BookLendListHelper.cs" />
+    <Compile Include="类文件\BookListHelper.cs" />
+    <Compile Include="work\ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work\ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="类文件\DBHelper.cs" />
+    <Compile Include="work\LendBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work\LendBooks.Designer.cs">
+      <DependentUpon>LendBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibraryDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LibraryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manegar\ManagerManu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manegar\ManagerManu.Designer.cs">
+      <DependentUpon>ManagerManu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="类文件\MangerHelper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="类文件\ReaderCategoryHelper.cs" />
+    <Compile Include="类文件\ReaderHelper.cs" />
+    <Compile Include="work\ReaderInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work\ReaderInsert.Designer.cs">
+      <DependentUpon>ReaderInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="work\ReaderSelectBorrowing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work\ReaderSelectBorrowing.Designer.cs">
+      <DependentUpon>ReaderSelectBorrowing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="类文件\SQLFunction.cs" />
+    <Compile Include="work\WorkerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work\WorkerMenu.Designer.cs">
+      <DependentUpon>WorkerMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manegar\SelectBookCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manegar\SelectBookCategory.Designer.cs">
+      <DependentUpon>SelectBookCategory.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="manegar\AddBookCategory.resx">
+      <DependentUpon>AddBookCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manegar\AddBookList.resx">
+      <DependentUpon>AddBookList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manegar\Addwork.resx">
+      <DependentUpon>Addwork.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manegar\ChangeBookCategory.resx">
+      <DependentUpon>ChangeBookCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manegar\ChangeBookList.resx">
+      <DependentUpon>ChangeBookList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manegar\SelectBookList.resx">
+      <DependentUpon>SelectBookList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work\Selectwork.resx">
+      <DependentUpon>Selectwork.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work\BookBack.resx">
+      <DependentUpon>BookBack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work\ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work\LendBooks.resx">
+      <DependentUpon>LendBooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manegar\ManagerManu.resx">
+      <DependentUpon>ManagerManu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="work\ReaderInsert.resx">
+      <DependentUpon>ReaderInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work\ReaderSelectBorrowing.resx">
+      <DependentUpon>ReaderSelectBorrowing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work\WorkerMenu.resx">
+      <DependentUpon>WorkerMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manegar\SelectBookCategory.resx">
+      <DependentUpon>SelectBookCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="人脸识别\FaceAdd.resx">
+      <DependentUpon>FaceAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="LibraryDataSet.xsc">
+      <DependentUpon>LibraryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LibraryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LibraryDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LibraryDataSet.xss">
+      <DependentUpon>LibraryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="img\login.png" />
+    <Content Include="img\logo.ico" />
+    <Content Include="img\LOGO.png" />
+    <Content Include="Resources\logo.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

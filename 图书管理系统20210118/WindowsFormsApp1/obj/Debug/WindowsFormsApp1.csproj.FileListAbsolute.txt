@@ -1,0 +1,743 @@
+C:\Users\wtc13\source\repos\图书管理系统\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\wtc13\source\repos\图书管理系统\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\wtc13\source\repos\图书管理系统\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\wtc13\source\repos\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\wtc13\source\repos\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\wtc13\source\repos\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\wtc13\source\repos\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\wtc13\source\repos\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\wtc13\source\repos\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\wtc13\source\repos\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\workdir\WinForm\图书管理系统\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\workdir\WinForm\图书管理系统\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\workdir\WinForm\图书管理系统\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\workdir\WinForm\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\workdir\WinForm\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\workdir\WinForm\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\workdir\WinForm\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerMenu.resources
+D:\workdir\WinForm\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\workdir\WinForm\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\workdir\WinForm\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\workdir\WinForm\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\workdir\WinForm\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderInsert.resources
+D:\workdir\WinForm\图书管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderUpdate.resources
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookBack.resources
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LendBooks.resources
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderInsert.resources
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.借阅查询.resources
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderUpdate.resources
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerMenu.resources
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Desktop\图书管理系统20210108-1241\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookBack.resources
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LendBooks.resources
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderInsert.resources
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderUpdate.resources
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerMenu.resources
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManagerManu.resources
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangePassword.resources
+D:\Desktop\图书管理系统20210108-1241 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderSelectBorrowing.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addwork.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangeBookCategory.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangeBookList.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mChangepassword.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Selectwork.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookBack.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangePassword.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LendBooks.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManagerManu.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderInsert.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderSelectBorrowing.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderUpdate.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerMenu.resources
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Desktop\图书管理系统20210108-1623\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addwork.resources
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangeBookCategory.resources
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangeBookList.resources
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mChangepassword.resources
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Selectwork.resources
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookBack.resources
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangePassword.resources
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LendBooks.resources
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManagerManu.resources
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderInsert.resources
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderSelectBorrowing.resources
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderUpdate.resources
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerMenu.resources
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Desktop\图书管理系统20210108-1825\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.manegar.AddBookCategory.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.manegar.AddBookList.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addwork.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangeBookCategory.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangeBookList.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.manegar.SelectBookList.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Selectwork.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookBack.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangePassword.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LendBooks.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManagerManu.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderInsert.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderSelectBorrowing.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerMenu.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.work.SelectBookCategory.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\_2021._01._09_BaiduAI.FaceAdd.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\netstandard.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.AppContext.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Collections.Concurrent.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Collections.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Collections.NonGeneric.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Collections.Specialized.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.ComponentModel.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.ComponentModel.Primitives.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Console.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Data.Common.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Diagnostics.Contracts.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Diagnostics.Debug.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Diagnostics.Process.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Diagnostics.Tools.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Diagnostics.Tracing.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Drawing.Primitives.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Dynamic.Runtime.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Globalization.Calendars.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Globalization.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Globalization.Extensions.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.IO.Compression.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.IO.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.IO.IsolatedStorage.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.IO.Pipes.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Linq.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Linq.Expressions.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Linq.Parallel.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Linq.Queryable.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Net.Http.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Net.NameResolution.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Net.NetworkInformation.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Net.Ping.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Net.Primitives.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Net.Requests.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Net.Security.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Net.Sockets.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Net.WebSockets.Client.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Net.WebSockets.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.ObjectModel.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Reflection.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Reflection.Extensions.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Reflection.Primitives.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Resources.Reader.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Resources.ResourceManager.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Resources.Writer.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Runtime.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Runtime.Extensions.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Runtime.Handles.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Runtime.InteropServices.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Runtime.Numerics.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Security.Claims.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Security.Principal.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Security.SecureString.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Text.Encoding.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Text.RegularExpressions.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Threading.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Threading.Overlapped.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Threading.Thread.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Threading.ThreadPool.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Threading.Timer.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Xml.ReaderWriter.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Xml.XDocument.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Xml.XmlDocument.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Xml.XmlSerializer.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Xml.XPath.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\AForge.Controls.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\AForge.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\AForge.Video.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\AipSdk.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\Azure.Core.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\AForge.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\AForge.Controls.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\Azure.Core.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\图书管理系统20210108-1241 - 副本 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\netstandard.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.AppContext.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Collections.Concurrent.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Collections.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Collections.NonGeneric.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Collections.Specialized.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ComponentModel.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Console.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Data.Common.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.Debug.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.Process.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.Tools.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Drawing.Primitives.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Dynamic.Runtime.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Globalization.Calendars.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Globalization.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Globalization.Extensions.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.Compression.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.Pipes.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Linq.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Linq.Expressions.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Linq.Parallel.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Linq.Queryable.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Http.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.NameResolution.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.NetworkInformation.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Ping.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Primitives.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Requests.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Security.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Sockets.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.WebSockets.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ObjectModel.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Reflection.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Reflection.Extensions.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Reflection.Primitives.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Resources.Reader.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Resources.ResourceManager.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Resources.Writer.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Extensions.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Handles.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.InteropServices.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Numerics.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Claims.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Principal.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.SecureString.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Encoding.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.RegularExpressions.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Overlapped.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Thread.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.ThreadPool.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Timer.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.XDocument.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.XmlDocument.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.XPath.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Controls.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Video.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AipSdk.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Azure.Core.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Controls.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Azure.Core.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.manegar.AddBookCategory.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.manegar.AddBookList.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addwork.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangeBookCategory.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangeBookList.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.manegar.SelectBookList.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Selectwork.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookBack.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangePassword.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LendBooks.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManagerManu.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderInsert.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderSelectBorrowing.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerMenu.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.work.SelectBookCategory.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\_2021._01._09_BaiduAI.FaceAdd.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\netstandard.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.AppContext.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Collections.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Collections.Specialized.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ComponentModel.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Console.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Data.Common.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Globalization.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.Compression.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.Pipes.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Linq.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Linq.Expressions.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Linq.Parallel.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Linq.Queryable.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Http.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.NameResolution.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Ping.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Primitives.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Requests.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Security.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Sockets.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.WebSockets.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ObjectModel.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Reflection.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Resources.Reader.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Resources.Writer.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Handles.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Claims.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Principal.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.SecureString.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Encoding.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Thread.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Timer.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.XDocument.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.XPath.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Controls.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Video.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AipSdk.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Azure.Core.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Controls.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Azure.Core.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.manegar.AddBookCategory.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.manegar.AddBookList.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addwork.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangeBookCategory.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangeBookList.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.manegar.SelectBookList.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Selectwork.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookBack.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangePassword.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LendBooks.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManagerManu.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderInsert.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderSelectBorrowing.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerMenu.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.work.SelectBookCategory.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\_2021._01._09_BaiduAI.FaceAdd.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\netstandard.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.AppContext.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Collections.Concurrent.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Collections.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Collections.NonGeneric.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Collections.Specialized.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ComponentModel.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Console.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Data.Common.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.Debug.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.Process.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.Tools.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Drawing.Primitives.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Dynamic.Runtime.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Globalization.Calendars.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Globalization.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Globalization.Extensions.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.Compression.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.Pipes.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Linq.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Linq.Expressions.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Linq.Parallel.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Linq.Queryable.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Http.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.NameResolution.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.NetworkInformation.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Ping.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Primitives.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Requests.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Security.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.Sockets.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Net.WebSockets.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ObjectModel.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Reflection.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Reflection.Extensions.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Reflection.Primitives.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Resources.Reader.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Resources.ResourceManager.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Resources.Writer.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Extensions.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Handles.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.InteropServices.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Numerics.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Claims.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.Principal.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Security.SecureString.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Encoding.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.RegularExpressions.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Overlapped.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Thread.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.ThreadPool.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Timer.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.XDocument.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.XmlDocument.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.XPath.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Controls.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Video.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AipSdk.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Azure.Core.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Controls.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Azure.Core.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.manegar.AddBookCategory.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.manegar.AddBookList.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addwork.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangeBookCategory.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangeBookList.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.manegar.SelectBookList.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Selectwork.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookBack.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangePassword.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LendBooks.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManagerManu.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderInsert.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReaderSelectBorrowing.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WorkerMenu.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.work.SelectBookCategory.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\_2021._01._09_BaiduAI.FaceAdd.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\图书管理系统20210118\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

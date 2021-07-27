@@ -1,0 +1,486 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Collections</name>
+    </assembly>
+    <members>
+        <member name="T:Collections.Generic.SortOrder">
+            <summary>
+            The sortorder for the heap.
+            </summary>
+        </member>
+        <member name="F:Collections.Generic.SortOrder.Ascending">
+            <summary>
+            The smallest elements comes first
+            </summary>
+        </member>
+        <member name="F:Collections.Generic.SortOrder.Descending">
+            <summary>
+            The largest element comes first
+            </summary>
+        </member>
+        <member name="T:Collections.Generic.BinaryHeap`2">
+            <summary>
+            A binary heap is a container that allows the efficient storing of elements that have
+            a comparable key in a way, that the element with the smallest key is always the first
+            element in the heap. This property is maintained even when this element gets removed.
+            Only the removal of this first element is allowed.
+            </summary>
+            <typeparam name="TK">The type of the key, must implement IComparable`TK</typeparam>
+            <typeparam name="TV">The type of the elements to store</typeparam>
+        </member>
+        <member name="F:Collections.Generic.BinaryHeap`2.DefaultCapacity">
+            <summary>
+            The default capacity of a <see cref="T:Collections.Generic.BinaryHeap`2"/>.
+            </summary>
+        </member>
+        <member name="F:Collections.Generic.BinaryHeap`2.DefaultSortOrder">
+            <summary>
+            The default <see cref="T:Collections.Generic.SortOrder"/> of a <see cref="T:Collections.Generic.BinaryHeap`2"/>.
+            </summary>
+        </member>
+        <member name="F:Collections.Generic.BinaryHeap`2.MinimumCapacity">
+            <summary>
+            The minimum capacity of a <see cref="T:Collections.Generic.BinaryHeap`2"/>.
+            </summary>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeap`2.#ctor">
+            <summary>
+            Create a heap with a default capacity and ascending sort order.
+            </summary>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeap`2.#ctor(Collections.Generic.SortOrder)">
+            <summary>
+            Create a new heap with the specified sort order and default capacity.
+            </summary>
+            <param name="sortOrder">The sort order (Ascending or Descending)</param>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeap`2.#ctor(Collections.Generic.SortOrder,System.Int32)">
+            <summary>
+            Create a new heap with the specified capacity and sort order.
+            </summary>
+            <param name="sortOrder">The sort order (Ascending or Descending)</param>
+            <param name="capacity"></param>
+            <exception cref="T:System.ArgumentOutOfRangeException">Thrown if the capacity is less than 2.</exception>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeap`2.#ctor(System.Int32)">
+            <summary>
+            Create a new heap with the specified capacity and default ascending sort order
+            </summary>
+            <param name="capacity"></param>
+            <exception cref="T:System.ArgumentOutOfRangeException">Thrown if the capacity is less than 2.</exception>
+        </member>
+        <member name="P:Collections.Generic.BinaryHeap`2.Count">
+            <summary>
+            How many elements are in the heap?
+            </summary>
+            <value>The number of elements.</value>
+        </member>
+        <member name="P:Collections.Generic.BinaryHeap`2.Item(System.Int32)">
+            <summary>
+            Get/Set the KeyValuePair in the inernal array representing the heap
+            </summary>
+            <param name="index">The index of the element</param>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the heap is empty</exception>
+            <exception cref="T:System.IndexOutOfRangeException">May be thrown if the heap is empty</exception>
+            <returns>The element</returns>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeap`2.Compare(`0,`0)">
+            <summary>
+            Compare two keys
+            </summary>
+            <param name="lhs">The left key</param>
+            <param name="rhs">The right key</param>
+            <returns>-1 if lhs less than rhs, 0 if lhs==rhs, 1 if lhs greater than rhs</returns>
+        </member>
+        <member name="P:Collections.Generic.BinaryHeap`2.IsEmpty">
+            <summary>
+            Is this heap empty?
+            </summary>
+            <value>True if the heap is empty, False otherwise.</value>
+        </member>
+        <member name="P:Collections.Generic.BinaryHeap`2.IsFull">
+            <summary>
+            Is this heap full?
+            </summary>
+            <value>True if the heap is full, False otherwise.</value>
+        </member>
+        <member name="P:Collections.Generic.BinaryHeap`2.Peek">
+            <summary>
+            Get the first element from the heap but don't remove it.
+            </summary>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the heap is empty</exception>
+            <exception cref="T:System.IndexOutOfRangeException">May be thrown if the heap is empty</exception>
+            <value>The smallest or largest element in the heap, depending on the sort order.</value>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeap`2.AssignToIndex(System.Int32,System.Collections.Generic.KeyValuePair{`0,`1})">
+            <summary>
+            Assign an element to an indexed position in the internal heap array
+            </summary>
+            <param name="lhs">The index in the heap array</param>
+            <param name="rhs">The element to assign</param>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeap`2.Add(System.Collections.Generic.KeyValuePair{`0,`1})">
+            <summary>
+            Add a new element to the heap. If the capacity gets exceeded the heap will be expanded.
+            </summary>
+            <param name="item">The KeyValuePair to add to the heap.</param>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeap`2.Add(`0,`1)">
+            <summary>
+            Add a new element with the specified key.
+            </summary>
+            <param name="key">The key to add.</param>
+            <param name="value">The element to add.</param>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeap`2.RemoveByIndex(System.Int32)">
+            <summary>
+            Remove the element which is on the speified position in the heap
+            </summary>
+            <param name="index">The index of the element in the internal array</param>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the heap is empty</exception>
+            <exception cref="T:System.IndexOutOfRangeException">May be thrown if the heap is empty</exception>
+            <returns>The KeyValuePair that was removed</returns>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeap`2.Clear">
+            <summary>
+            RemoveByIndex all elements from the heap.
+            </summary>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeap`2.Remove">
+            <summary>
+            Get the first element from the heap an remove it.
+            </summary>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the heap is empty.</exception>
+            <returns>The first element from the heap. This is the smallest or largest depending on the sort order.</returns>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeap`2.ChangePriority(`0)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeap`2.Enqueue(`0,`1)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeap`2.Dequeue">
+            <inheritdoc/>
+        </member>
+        <member name="T:Collections.Generic.BinaryHeapWithCallback`2">
+            <summary>
+            This is a binary heap where the TV value class provides a callback to maintain the
+            internal heap-index value. This allows for an efficient implementation of a binary
+            heap where we can remove any element from the heap - instead of just the first one -
+            and to retrieve the Key that has been used to store an element in the heap.
+            </summary>
+            <typeparam name="TK">The type of the key, must implement IComparable`TK</typeparam>
+            <typeparam name="TV">The type of the elements to store</typeparam>
+        </member>
+        <member name="T:Collections.Generic.BinaryHeapWithCallback`2.IndexReferencer">
+            <summary>
+            This callback assumes, that a TV value can somehow store the value
+            of our internal index into the heap array. If we use a negative newValue,
+            the value must not be stored.
+            </summary>
+            <param name="value">The TV object that we reference</param>
+            <param name="newValue">The newValue to store. If negative, don't store</param>
+            <returns>The previous value stored.</returns>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithCallback`2.#ctor(Collections.Generic.BinaryHeapWithCallback{`0,`1}.IndexReferencer,Collections.Generic.SortOrder)">
+            <summary>
+            Create a new heap with the specified sort order and default capacity.
+            </summary>
+            <param name="indexReferencer">The callback to store the heap-index</param>
+            <param name="sortOrder">The sort order (Ascending or Descending)</param>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithCallback`2.#ctor(Collections.Generic.BinaryHeapWithCallback{`0,`1}.IndexReferencer,Collections.Generic.SortOrder,System.Int32)">
+            <summary>
+            Create a new heap with the specified capacity and sort order.
+            </summary>
+            <param name="indexReferencer">The callback to store the heap-index</param>
+            <param name="sortOrder">The sort order (Ascending or Descending)</param>
+            <param name="capacity"></param>
+            <exception cref="T:System.ArgumentOutOfRangeException">Thrown if the capacity is less than 2.</exception>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithCallback`2.#ctor(Collections.Generic.BinaryHeapWithCallback{`0,`1}.IndexReferencer,System.Int32)">
+            <summary>
+            Create a new heap with the specified capacity and default ascending sort order
+            </summary>
+            <param name="indexReferencer">The callback to store the heap-index</param>
+            <param name="capacity"></param>
+            <exception cref="T:System.ArgumentOutOfRangeException">Thrown if the capacity is less than 2.</exception>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithCallback`2.AssignToIndex(System.Int32,System.Collections.Generic.KeyValuePair{`0,`1})">
+            <inheritdoc/>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithCallback`2.Remove(System.Int32)">
+            <summary>
+            Remove the element which is on the speified position in the heap.
+            We typically know that index, because the callback will store it
+            in our TV value object.
+            </summary>
+            <param name="index">The index of the element in the heap</param>
+            <exception cref="T:System.IndexOutOfRangeException">May be thrown if the index is out of range</exception>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the heap is empty</exception>
+            <returns>The removed KeyValuePair</returns>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithCallback`2.Get(System.Int32)">
+            <summary>
+            Get the KeyValuePair from the heap. An exception will be thrown if the element
+            isn't in the heap.
+            </summary>
+            <param name="index">The index of the pair in the heap</param>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the heap is empty</exception>
+            <exception cref="T:System.IndexOutOfRangeException">May be thrown if the index is out of range</exception>
+            <returns>The requested KeyValuePair</returns>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithCallback`2.ChangePriority(System.Int32,`0)">
+            <summary>
+            Change the key of an element on the heap.
+            </summary>
+            <param name="index">The index of the element in the heap</param>
+            <param name="newPriority">The new key</param>
+            <exception cref="T:System.IndexOutOfRangeException">May be thrown if the index is out of range</exception>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the heap is empty</exception>
+        </member>
+        <member name="T:Collections.Generic.BinaryHeapWithReverseMap`2">
+            <summary>
+            This is a convenience class where in the heap we maintain a dictionary to map the
+            keys to their internal index values. Because this dictionary needs ro be maintained,
+            the implementation is less efficient than the base class. It also means, that the
+            queue can also contain a key only once.
+            But we get some convenience without any assumptions for the TV value class like with
+            the BinaryHeapWithCallback class.
+            </summary>
+            <typeparam name="TK">The type of the key, must implement IComparable`TK</typeparam>
+            <typeparam name="TV">The type of the elements to store</typeparam>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithReverseMap`2.#ctor">
+            <summary>
+            Create a heap with a default capacity and ascending sort order.
+            </summary>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithReverseMap`2.#ctor(Collections.Generic.SortOrder,System.Int32)">
+            <summary>
+            Create a new heap with the specified capacity and sort order.
+            </summary>
+            <param name="sortOrder">The sort order (Ascending or Descending)</param>
+            <param name="capacity"></param>
+            <exception cref="T:System.ArgumentOutOfRangeException">Thrown if the capacity is less than 2.</exception>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithReverseMap`2.#ctor(System.Int32)">
+            <summary>
+            Create a new heap with the specified capacity and default ascending sort order
+            </summary>
+            <param name="capacity"></param>
+            <exception cref="T:System.ArgumentOutOfRangeException">Thrown if the capacity is less than 2.</exception>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithReverseMap`2.AssignToIndex(System.Int32,System.Collections.Generic.KeyValuePair{`0,`1})">
+            <inheritdoc/>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithReverseMap`2.Add(System.Collections.Generic.KeyValuePair{`0,`1})">
+            <summary>
+            Add a new element to the heap. If the capacity gets exceeded the heap will be expanded.
+            </summary>
+            <param name="item">The KeyValuePair to add to the heap.</param>
+            <exception cref="T:System.InvalidOperationException">May be thrown if the key is duplicate.</exception>
+        </member>
+        <member name="P:Collections.Generic.BinaryHeapWithReverseMap`2.Item(`0)">
+            <summary>
+            Retrieve the queue element associated with a specific key
+            </summary>
+            <param name="key">The key of the element</param>
+            <exception cref="T:System.IndexOutOfRangeException">May be thrown if the heap is empty.</exception>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the heap is empty.</exception>
+            <returns>The element belonging to this key</returns>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithReverseMap`2.Clear">
+            <summary>
+            RemoveByIndex all elements from the heap.
+            </summary>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithReverseMap`2.Remove(`0)">
+            <summary>
+            RemoveByIndex an element from the queue that's specified by its key
+            </summary>
+            <param name="key">The key of the element to be removed</param>
+            <exception cref="T:System.InvalidOperationException">May be thrown if the heap is empty.</exception>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the heap is empty.</exception>
+            <returns>The removed element</returns>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithReverseMap`2.ContainsKey(`0)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Collections.Generic.BinaryHeapWithReverseMap`2.Index(`0)">
+            <inheritdoc/>
+        </member>
+        <member name="T:Collections.Generic.IPriorityQueue`2">
+            <summary>
+            The Interface to a priority queue. That is a queue where the elements are maintained in a way,
+            that always the one with the smallest/largest (depending on the sort order) value is on the 
+            head of the queue.
+            </summary>
+            <typeparam name="TK">The key type to use. Must implement IComparable`TK</typeparam>
+            <typeparam name="TV">The value for the elements in the queue.</typeparam>
+        </member>
+        <member name="P:Collections.Generic.IPriorityQueue`2.IsEmpty">
+            <summary>
+            Is the queue empty?
+            </summary>
+            <value>True if the queue is empty, False otherwise.</value>
+        </member>
+        <member name="M:Collections.Generic.IPriorityQueue`2.Enqueue(`0,`1)">
+            <summary>
+            Add a value with a specified key to the queue. There is no guaranteed ordering, with
+            the one and only exception: the smallest/largets (depending on the sort order) is
+            always on the head of the queue.
+            </summary>
+            <param name="key">The requested key for the new value.</param>
+            <param name="value">The value to add to the queue.</param>
+        </member>
+        <member name="P:Collections.Generic.IPriorityQueue`2.Peek">
+            <summary>
+            Get the head element in the queue, but don't remove it. Depending on the sort
+            order this is the smallest or largest element in the queue.
+            </summary>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the queue is empty.</exception>
+            <value>The head element in the queue.</value>
+        </member>
+        <member name="M:Collections.Generic.IPriorityQueue`2.Dequeue">
+            <summary>
+            Get the head element in the queue and remove it from the queue.
+            Depending on the sort order this is the smallest or largest element in the queue.
+            The queue is internally rearranged to make sure, that now the new smallest/largest
+            element is on the head of the queue.
+            </summary>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the queue is empty.</exception>
+            <value>The head element in the queue.</value>
+        </member>
+        <member name="M:Collections.Generic.IPriorityQueue`2.ChangePriority(`0)">
+            <summary>
+            Changes the key of the head element in the queue. This most likely
+            will reposition the element in the queue and it's perhaps no longer the
+            head element after that operation.
+            </summary>
+            <param name="newKey">The new key for the first element.</param>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the queue is empty.</exception>
+        </member>
+        <member name="T:Collections.Generic.IPriorityQueueWithIndexing`2">
+            <summary>
+            This is an interface to a Priority Queue, where the Caller has some
+            intrinsic knowledge about the internal index of elements on the queue
+            and can use that index to operate on the queue.
+            </summary>
+            <typeparam name="TK">The key type to use. Must implement IComparable`TK</typeparam>
+            <typeparam name="TV">The value for the elements in the queue.</typeparam>
+        </member>
+        <member name="M:Collections.Generic.IPriorityQueueWithIndexing`2.Dequeue(System.Int32)">
+            <summary>
+            Remove the element which is on the speified position in the queue.
+            </summary>
+            <param name="index">The index of the element in the queue</param>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the queue is empty.</exception>
+            <exception cref="T:System.IndexOutOfRangeException">May be thrown if the inddex is invalid.</exception>
+            <returns></returns>
+        </member>
+        <member name="P:Collections.Generic.IPriorityQueueWithIndexing`2.Item(System.Int32)">
+            <summary>
+            Get the KeyValuePair from the queue. An exception will be thrown if the element
+            isn't in the queue.
+            </summary>
+            <param name="index">The index of the pair in the queue</param>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the queue is empty.</exception>
+            <exception cref="T:System.IndexOutOfRangeException">May be thrown if the inddex is invalid.</exception>
+            <returns>The requested KeyValuePair</returns>
+        </member>
+        <member name="M:Collections.Generic.IPriorityQueueWithIndexing`2.ChangePriority(System.Int32,`0)">
+            <summary>
+            Change the key of an element in the queue. 
+            </summary>
+            <param name="index">The index of the element in the queue</param>
+            <param name="newKey">The new key</param>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the queue is empty.</exception>
+            <exception cref="T:System.IndexOutOfRangeException">May be thrown if the inddex is invalid.</exception>
+        </member>
+        <member name="T:Collections.Generic.IPriorityQueueWithKeyMapping`2">
+            <summary>
+            This is an interface to a Priority Queue, where the Caller has some
+            intrinsic knowledge about the mapping from the key values to the
+            internal index of elements on the queue. This means especially, that
+            he key must be unique in the queue (other than for general
+            IPriorityQueue)
+            </summary>
+            <typeparam name="TK">The key type to use. Must implement IComparable`TK</typeparam>
+            <typeparam name="TV">The value for the elements in the queue.</typeparam>
+        </member>
+        <member name="M:Collections.Generic.IPriorityQueueWithKeyMapping`2.Index(`0)">
+            <summary>
+            Return the internal index of an element in the queue
+            </summary>
+            <param name="key">The index of the element in the queue</param>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the key is not in the queue</exception>
+            <returns>The index of the element</returns>
+        </member>
+        <member name="M:Collections.Generic.IPriorityQueueWithKeyMapping`2.ContainsKey(`0)">
+            <summary>
+            Check the existence of a key in the queue
+            </summary>
+            <param name="key">The key to lookup</param>
+            <returns>True if the key exists, false otherwise</returns>
+        </member>
+        <member name="M:Collections.Generic.IPriorityQueueWithKeyMapping`2.Dequeue(`0)">
+            <summary>
+            RemoveByIndex an element from the queue that's specified by its key
+            </summary>
+            <param name="key">The key of the element to be removed</param>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the key is not in the queue</exception>
+            <returns>The removed KeyValuePair</returns>
+        </member>
+        <member name="M:Collections.Generic.IPriorityQueueWithKeyMapping`2.ChangePriority(`0,`0)">
+            <summary>
+            Change the priority of an element in the queue
+            </summary>
+            <param name="oldKey">The original priority (must exist)</param>
+            <param name="newKey">The new priority</param>
+            <exception cref="T:System.Collections.Generic.KeyNotFoundException">May be thrown if the oldKey is not in the queue</exception>
+        </member>
+        <member name="T:Collections.Properties.Resource">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Collections.Properties.Resource.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Collections.Properties.Resource.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:Collections.Properties.Resource.DUPLICATE_KEY">
+            <summary>
+              Looks up a localized string similar to Duplicate key..
+            </summary>
+        </member>
+        <member name="P:Collections.Properties.Resource.ELEMENT_NOT_FOUND">
+            <summary>
+              Looks up a localized string similar to This element is not in the binary heap..
+            </summary>
+        </member>
+        <member name="P:Collections.Properties.Resource.EMPTY_HEAP">
+            <summary>
+              Looks up a localized string similar to The binary heap is empty..
+            </summary>
+        </member>
+        <member name="P:Collections.Properties.Resource.INVALID_CAPACITY">
+            <summary>
+              Looks up a localized string similar to The capacity value must be at least 2. .
+            </summary>
+        </member>
+        <member name="P:Collections.Properties.Resource.KEY_NOT_FOUND">
+            <summary>
+              Looks up a localized string similar to The key is not in the binary heap..
+            </summary>
+        </member>
+    </members>
+</doc>

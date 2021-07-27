@@ -1,0 +1,180 @@
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\2021.01.09 BaiduAI.exe.config
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\2021.01.09 BaiduAI.exe
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\2021.01.09 BaiduAI.pdb
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Controls.dll
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.dll
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Imaging.dll
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Math.dll
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.dll
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Collections.dll
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.xml
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Controls.xml
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Imaging.xml
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Math.xml
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.xml
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Collections.xml
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\de\Collections.resources.dll
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csprojAssemblyReference.cache
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\_2021._01._09_BaiduAI.Properties.Resources.resources
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csproj.GenerateResource.cache
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csproj.CoreCompileInputs.cache
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csproj.CopyComplete
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.exe
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.pdb
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Core.dll
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Windows.Forms.dll
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Core.xml
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Windows.Forms.xml
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\en-US.dll
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AwesomiumProcess
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.dll
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\icudt42.dll
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\_2021._01._09_BaiduAI.FaceAdd.resources
+C:\Users\17317\source\repos\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\_2021._01._09_BaiduAI.facebooklend.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\2021.01.09 BaiduAI.exe.config
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\2021.01.09 BaiduAI.exe
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\2021.01.09 BaiduAI.pdb
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Controls.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Imaging.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Math.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.DirectShow.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Collections.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Newtonsoft.Json.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Controls.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Imaging.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Math.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.DirectShow.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Core.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Windows.Forms.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Collections.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Newtonsoft.Json.xml
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\de\Collections.resources.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\en-US.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AwesomiumProcess
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\icudt42.dll
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csprojAssemblyReference.cache
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\_2021._01._09_BaiduAI.FaceAdd.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\_2021._01._09_BaiduAI.facebooklend.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\WindowsFormsApp1.Login.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\_2021._01._09_BaiduAI.Properties.Resources.resources
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csproj.GenerateResource.cache
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csproj.CoreCompileInputs.cache
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csproj.CopyComplete
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.exe
+D:\workdir\WinForm\图书管理系统20210108-2015\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.pdb
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\2021.01.09 BaiduAI.exe.config
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\2021.01.09 BaiduAI.exe
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\2021.01.09 BaiduAI.pdb
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Controls.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Imaging.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Math.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.DirectShow.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Core.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Windows.Forms.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Collections.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Controls.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Imaging.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Math.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.DirectShow.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Core.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Windows.Forms.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Collections.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\de\Collections.resources.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\en-US.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AwesomiumProcess
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\icudt42.dll
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csprojAssemblyReference.cache
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\_2021._01._09_BaiduAI.facebooklend.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\_2021._01._09_BaiduAI.Properties.Resources.resources
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csproj.GenerateResource.cache
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csproj.CoreCompileInputs.cache
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csproj.CopyComplete
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.exe
+D:\Desktop\面向对象程序设计-课程设计\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.pdb
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\2021.01.09 BaiduAI.exe.config
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\2021.01.09 BaiduAI.exe
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\2021.01.09 BaiduAI.pdb
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Controls.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Imaging.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Math.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Collections.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Controls.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Imaging.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Math.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Core.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Windows.Forms.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Collections.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\de\Collections.resources.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\en-US.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AwesomiumProcess
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\icudt42.dll
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csprojAssemblyReference.cache
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\_2021._01._09_BaiduAI.facebooklend.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\_2021._01._09_BaiduAI.Properties.Resources.resources
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csproj.GenerateResource.cache
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csproj.CoreCompileInputs.cache
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csproj.CopyComplete
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.exe
+C:\Users\wtc13\Desktop\大学\大三\面向对象\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.pdb
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\2021.01.09 BaiduAI.exe.config
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\2021.01.09 BaiduAI.exe
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\2021.01.09 BaiduAI.pdb
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Controls.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Imaging.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Math.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.DirectShow.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Core.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Windows.Forms.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Collections.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Controls.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Imaging.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Math.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AForge.Video.DirectShow.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Core.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.Windows.Forms.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Collections.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\de\Collections.resources.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\en-US.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\AwesomiumProcess
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\Awesomium.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\bin\Debug\icudt42.dll
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csprojAssemblyReference.cache
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\_2021._01._09_BaiduAI.facebooklend.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\_2021._01._09_BaiduAI.Properties.Resources.resources
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csproj.GenerateResource.cache
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csproj.CoreCompileInputs.cache
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.csproj.CopyComplete
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.exe
+D:\Desktop\2021.1.19-0113(1)\2021.1.19-0113\2021.1.18 程序雏形\2021.01.09 BaiduAI\2021.01.09 BaiduAI\obj\Debug\2021.01.09 BaiduAI.pdb
